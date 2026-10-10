@@ -13,3 +13,8 @@ pm install,
 pm run contract:test, 
 pm run contract:lint, and 
 pm run build.
+
+- Website: https://translation-parity-v2-genlayer.pages.dev/
+- GitHub: https://github.com/rankoo21/TranslationParity
+
+
